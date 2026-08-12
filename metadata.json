@@ -1,0 +1,6 @@
+{
+  "name": "Nike Sneaker E-Commerce",
+  "description": "A premium React sneaker e-commerce website for NIKE featuring bold red styling, interactive shop, cart, product details, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
